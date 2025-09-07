@@ -1,5 +1,6 @@
 # Blinkit-SQL-Analysis
-SQL project analyzing Blinkit sales data using 9,000+ rows, performing data cleaning, transformations, and generating insights.
+This project demonstrates my ability to analyze and manage large datasets using SQL. I worked on a dataset containing 9,000+ rows, performing data cleaning, transformation, and analysis to extract meaningful insights and generate reports. 
+.
 
 ### Blinkit Sales Analysis Using SQL
 
